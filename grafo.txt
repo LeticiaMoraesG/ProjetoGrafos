@@ -1,0 +1,203 @@
+3
+50
+0 Parque Ibirapuera 2 computadores smartphones
+1 Parque do Chuvisco 2 celulares tablets
+2 Parque da Aclimação 1 baterias
+3 GoodStorage Tatuapé 1 diversos
+4 Sucata Digital Vila Hamburguesa 2 computadores celulares 
+5 Morumbi Town Shopping 2 tablets cabos.
+6 Parque do Povo 1 baterias.
+7 Parque Burle Marx 2 computadores cabos.
+8 Parque Vila Guilherme 2 celulares periféricos.
+9 Sucata Digital Vila Formosa 1 diversos.
+10 Parque Buenos Aires 2 eletrônicos acessórios.
+11 GoodStorage Lapa 2 computadores celulares.
+12 Parque da Independência 2 pequenos eletrônicos
+13 AGS4 Office Coworking (Pacaembu) 2 pequenos baterias.
+14 Coopermiti 2 eletrodomésticos câmeras
+15 Ecoponto Santo Amaro 1 TVs
+16 Instituto GEA Ética e Meio Ambiente 2 pilhas baterias.
+17 Samsung Experience Store 1 Samsung.
+18 Recifavela 2 impressoras CPUs
+19 CEDIR - Centro de Descarte e Reúso de Resíduos de Informática 1 equipamentos
+20 Ecoponto Lapa 1 resíduos
+21 Parque Vila Lobos 2 baterias pilhas.
+22 PREFEITURA DA CIDADE DE SÃO PAULO 2 impressoras monitores
+23 Supermercados Pão de Açúcar 2 pilhas baterias
+24 CANTAREIRA NORTE SHOPPING 2 pilhas baterias
+25 Droga Raia 1 bateria
+26 Vivo -  Pátio higienípolis II 2 carregadores celulares
+27 Lojas Apple 1 apple
+28 Ecoponto Mooca 1 eletrônico
+29 Parque Ecológico do Tietê 1 eletrônico
+30 Ecoponto Vila Mariana 1 resíduos
+31 Parque Anhanguera 2 bateria pilha
+32 Ecoponto Butantã 1 resíduos
+33 Recifran 1 eletrônico
+34 Ecoponto Pinheiros 2 eletrodoméstico eletrônico
+35 CDI – Comitê para a Democratização da Informática 1 computadores
+36 Ecoponto Cidade Ademar 1 eletrônico
+37 Ecoponto Sé 2 computadores periféricos
+38 San Lien 1 equipamento
+39 Parque Trianon 1 pequeno
+40 Shopping Anália Franco 2 pilha bateria
+41 Ecoponto Aricanduva 1 eletrônico
+42 ABRE - Associação Brasileira de Redistribuição de Excedentes 2 computadores TVs
+43 Ecoponto Pirituba 1 resíduo
+44 Instituto Triângulo 1 equipamento
+45 Parque Raposo Tavares 1 eletrônico
+46 Ecoponto São Mateus 1 resíduo
+47 SHOPPING ELDORADO 2 câmera som
+48 PARQUE MARIO COVAS 2 impressora monitores
+49 MAKRO – Unidade Butantã 2 som impressora
+150
+0 1 6.7
+0 2 3.5
+0 4 9.3
+0 6 4.9 
+0 7 6
+0 10 2.9
+0 20 2.3
+0 21 4
+0 22 4.1
+0 23 5.8
+0 27 4.7 
+0 28 2.9
+0 30 5.1
+0 31 5.4
+0 32 5.8
+0 36 4.6
+0 37 4.9
+0 44 1.2
+1 4 8.6
+1 7 9.9
+1 21 3.4
+1 23 5.3
+2 6 5
+2 7 2.2
+2 10 3.3
+2 19 4.7
+2 20 1.5
+2 24 4
+2 27 3.3
+2 33 5.6
+2 34 2.3
+2 36 2.1
+2 38 3.6
+2 40 2.6
+3 5 1.8
+3 13 4.5
+4 11 7.7
+4 12 12.1
+4 16 1.6
+4 21 5.6
+4 23 3.5
+4 32 3.7
+4 35 9.6
+4 39 8
+4 46 5.4
+5 13 6.4
+6 7 7.6
+6 10 2.2
+6 18 6.3
+6 19 1.5
+6 20 3.9
+6 33 8.7
+6 36 4.3
+7 10 5.8
+7 13 8.9
+7 17 6.8
+7 20 4
+7 24 1.6
+7 27 5.7
+7 28 8.1
+7 34 3.3
+8 10 8.2
+8 11 7.7
+8 15 0.3
+8 18 6.3
+8 22 4.6
+8 25 3.9
+8 26 4.4
+8 30 8.3
+8 35 2.7
+8 37 5.2
+8 45 8.7
+8 48 5
+9 13 8.5
+9 46 12.4
+9 14 7.6
+10 15 9.3
+10 18 8.7
+10 22 4.3
+10 30 2.3
+10 36 3.7
+10 40 3.3
+11 12 6.6
+11 15 7.5
+11 25 7
+13 14 1.3
+13 17 5.1
+13 20 9.8
+13 24 7.7
+13 42 4.3
+13 47 15.3
+14 17 4.4
+14 24 7.7
+15 18 6.6
+15 22 6.4
+15 26 5.6
+16 21 7.3
+16 23 5.3
+16 32 5.5
+16 49 5.5
+17 24 5.3
+18 19 7.3
+18 26 1.7
+18 29 10.5
+18 30 6.6
+18 31 6.3
+18 35 6.9
+19 31 1.9
+19 40 4.3
+20 34 2.6
+20 36 2.5
+21 22 7.9
+21 23 2.2
+21 32 2.2
+21 39 6.6
+22 31 4.6
+23 44 4.9
+23 46 2.4
+23 49 5.3
+24 27 7.1
+25 37 4.6
+26 29 10.4
+26 30 6.4
+26 31 6.1
+26 35 5.4
+26 38 6.5
+27 28 4.5
+28 35 5.4
+30 31 0.3
+30 35 7.7
+30 38 2.2
+30 48 5.5
+31 35 7.7
+31 38 2.2
+31 48 6
+32 39 7
+32 44 5
+32 46 5
+32 49 5.5
+33 34 7.1
+34 36 4.6
+36 40 1.3
+36 41 7.2
+37 38 7.3
+38 43 7.3
+40 41 6.6
+40 43 6.6
+41 43 4.5
+42 43 4.8
+48 49 5.6 
