@@ -37,7 +37,11 @@ public class TesteGrafoMatriz {
 						"7 - Mostrar conteúdo do arquivo\n" + //
 						"8 - Mostrar grafo\n" + //
 						"9 - Apresentar a conexidade do grafo e o reduzido\n" + //
-						"10 - Encerrar a aplicação. \nOpção: ");
+						"10 - Achar caminho mínimo entre dois vértices\n"+//
+						"11 - Hamiltoniano\n" + //
+						"12 - Euleriano\n" + //
+						"13 - Filtrar grafo\n" + //
+						"14 - Encerrar aplicação. \nOpção: ");
 		
 		Scanner s = new Scanner(System.in);
 		opcao = s.nextInt();
@@ -111,13 +115,36 @@ public class TesteGrafoMatriz {
 				}
 				break;
 			case 10:
+			    System.out.println("Digite o vértice origem: ");
+				int ori = s.nextInt();
+				System.out.println("Digite o vértice destino: ");
+				int dest = s.nextInt();
+				g.achaRotaFloyd(ori,dest);
+				break;
+			case 11:
+			    g.isHamiltoniano();
+			    break;
+			   
+			case 12:
+			    g.isEuleriano();
+			    break;
+			
+			case 13:
+			    System.out.println("Digite o tipo para filtrar:");
+                s.nextLine(); // Consume newline
+                String tipoFiltro = s.nextLine().trim();
+                g.filtrarGrafoPorTipo(tipoFiltro);
+			    break;
+			    
+			case 14:
 				//OPÇÃO 10
 				System.out.println("Aplcação encerrando...");
 				break;
 		}
-	}while(opcao != 10);
+	}while(opcao != 14);
 
 	}
 	
 	
 }
+
