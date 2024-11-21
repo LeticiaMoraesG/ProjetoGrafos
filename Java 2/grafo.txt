@@ -6,7 +6,8 @@
 3 Sucata Digital Vila Formosa 1 diversos
 4 AGS4 Office Coworking (Pacaembu) 2 pequenos baterias.
 5 CEDIR - Centro de Descarte e Reúso de Resíduos de Informática 1 equipamentos
-9
+10
+0 1 3.4
 0 2 4.5
 0 3 0.5
 1 3 4.0
